@@ -56,4 +56,8 @@ The dataset had ... datapoints. It consisted of 5 tables - Customer, Returns, Pr
 ![Screenshot (64)](https://github.com/user-attachments/assets/15c3637f-22ab-490e-a115-65f6bcc38720)
 
 # Key Insights
+* KPI's - Revenue, Gross Profit, Unit sold and percentage returns
+
+![Screenshot_6-10-2024_222256_app powerbi com](https://github.com/user-attachments/assets/8eda20ff-fe23-43ee-9440-b3f32e149f5d)
+
 
