@@ -60,4 +60,12 @@ The dataset had ... datapoints. It consisted of 5 tables - Customer, Returns, Pr
 
 ![Screenshot_6-10-2024_222256_app powerbi com](https://github.com/user-attachments/assets/8eda20ff-fe23-43ee-9440-b3f32e149f5d)
 
+* The month of June recorded the highest revenue generated with a total revenue of #3.24bn while December recorded the lowest revenue generated with a total of 1.90bn
 
+![Screenshot_6-10-2024_222256_app powerbi com](https://github.com/user-attachments/assets/8ce4c843-3be4-43f2-957e-68d718530546)
+
+* Class J had the highest number of product sold with a total of 461,000 units of products followed by Class A with a total of 415,000.
+* With a revenue of #11.7bn, Kaduna is the state with the highest revenue generated followed by Lokoja with a revenue of #7.3bn and Uyo with a revenue of #5.2bn
+
+![Screenshot_6-10-2024_222256_app powerbi com](https://github.com/user-attachments/assets/6767af04-ecf9-4ece-9ef1-0f224439e2a6)
+ 
