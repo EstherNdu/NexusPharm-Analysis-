@@ -11,3 +11,5 @@ I have been tasked to analyze the available data and create the following report
 * What-If Analysis
 * Product Report
 
+# About the dataset
+The dataset had ... datapoints. It consisted of 5 tables - Customer, Returns, Product, Store and transaction- which came in Excel format. Data Cleaning and transformation was done using MSSQL and visualization was done using Power BI
