@@ -1,0 +1,13 @@
+# NexusPharm-Analysis-
+
+# Brief Introduction
+Nexuspharm is a leading provider of animal drugs and supplements in Nigeria 
+which operates in the 6 geo-political zones. They have been in operation for 
+four years (2019 -2022) and have served quite a number of customers. As a data analyst,
+I have been tasked to analyze the available data and create the following reports.
+
+* Executive Report
+* Income Statement
+* What-If Analysis
+* Product Report
+
