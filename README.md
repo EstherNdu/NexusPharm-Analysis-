@@ -79,14 +79,16 @@ The dataset had ... datapoints. It consisted of 5 tables - Customer, Returns, Pr
 ![Screenshot_1-10-2024_62616_app powerbi com](https://github.com/user-attachments/assets/5b146cfc-f005-4e7b-90dd-6f3f5e325958)
 
 
-![Screenshot_1-10-2024_6293_app powerbi com](https://github.com/user-attachments/assets/a99083ef-16ea-4545-a186-7eb354741dd7)
+![Screenshot_6-10-2024_222256_app powerbi com](https://github.com/user-attachments/assets/5e1558c1-941f-4219-b1eb-2b063e44ce47)
 
-![Screenshot_1-10-2024_62657_app powerbi com](https://github.com/user-attachments/assets/673a2427-f978-447a-a34f-46836d8f0b89)
+![Screenshot_6-10-2024_222048_app powerbi com](https://github.com/user-attachments/assets/3cf83713-a75b-4e5e-b4c8-d1d070a707d5)
 
-![Screenshot_6-10-2024_222048_app powerbi com](https://github.com/user-attachments/assets/78b92495-82ec-4262-ba1e-ab6888a37dd4)
+![Screenshot_1-10-2024_62657_app powerbi com](https://github.com/user-attachments/assets/206fc719-e6ce-4546-af09-00aba355abdc)
 
-![Screenshot_6-10-2024_222256_app powerbi com](https://github.com/user-attachments/assets/6908b183-d2aa-47cd-aa1e-ab0e98b8546a)
+* Hydromophone which is the product with the highest profit was also the recorded as the product with the highest number of returns
 
-# Insights
+
+![Screenshot_1-10-2024_6293_app powerbi com](https://github.com/user-attachments/assets/a6608905-6762-499f-8989-b352ddcec82c)
+
 
 # Recommendations
