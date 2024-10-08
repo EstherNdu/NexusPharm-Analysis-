@@ -78,6 +78,11 @@ The dataset had ... datapoints. It consisted of 5 tables - Customer, Returns, Pr
 
 ![Screenshot_1-10-2024_62616_app powerbi com](https://github.com/user-attachments/assets/5b146cfc-f005-4e7b-90dd-6f3f5e325958)
 
+* Hydromophone which is the product with the highest profit was also the recorded as the product with the highest number of returns
+
+![Screenshot_1-10-2024_6293_app powerbi com](https://github.com/user-attachments/assets/01efdea1-2f3a-4847-87d2-8169a759f129)
+
+
 # Reports 
 
 ![Screenshot_6-10-2024_222256_app powerbi com](https://github.com/user-attachments/assets/5e1558c1-941f-4219-b1eb-2b063e44ce47)
@@ -85,8 +90,6 @@ The dataset had ... datapoints. It consisted of 5 tables - Customer, Returns, Pr
 ![Screenshot_6-10-2024_222048_app powerbi com](https://github.com/user-attachments/assets/3cf83713-a75b-4e5e-b4c8-d1d070a707d5)
 
 ![Screenshot_1-10-2024_62657_app powerbi com](https://github.com/user-attachments/assets/206fc719-e6ce-4546-af09-00aba355abdc)
-
-* Hydromophone which is the product with the highest profit was also the recorded as the product with the highest number of returns
 
 
 ![Screenshot_1-10-2024_6293_app powerbi com](https://github.com/user-attachments/assets/a6608905-6762-499f-8989-b352ddcec82c)
@@ -104,4 +107,4 @@ The dataset had ... datapoints. It consisted of 5 tables - Customer, Returns, Pr
   
 * Product analysis revealed that the top 5 products which generated the highest profits were also the products with highest returns. I would recommend that inquiries should be made as to why the products are being returned and the problem rectified as low return rate of these products can increase the revenue.
 
-Explore the interactive dashboard - 
+Explore the interactive dashboard - https://tinyurl.com/Nexuspharm-Analysis
