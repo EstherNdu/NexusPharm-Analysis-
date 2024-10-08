@@ -69,3 +69,8 @@ The dataset had ... datapoints. It consisted of 5 tables - Customer, Returns, Pr
 
 ![Screenshot_6-10-2024_222256_app powerbi com](https://github.com/user-attachments/assets/6767af04-ecf9-4ece-9ef1-0f224439e2a6)
  
+* For the customer analysis, The Little Beekeeping generated the highest revenue of over #214m.
+* With a percentage of 30.72, Ibadan warehouse is the warehouse with lowest stock left followed by Uyo with a percentage of 33.29.
+
+![Screenshot_1-10-2024_62457_app powerbi com](https://github.com/user-attachments/assets/549d8e04-612b-4f59-b80c-676464c2e18c)
+
