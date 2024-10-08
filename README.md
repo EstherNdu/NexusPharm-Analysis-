@@ -78,6 +78,7 @@ The dataset had ... datapoints. It consisted of 5 tables - Customer, Returns, Pr
 
 ![Screenshot_1-10-2024_62616_app powerbi com](https://github.com/user-attachments/assets/5b146cfc-f005-4e7b-90dd-6f3f5e325958)
 
+# Reports 
 
 ![Screenshot_6-10-2024_222256_app powerbi com](https://github.com/user-attachments/assets/5e1558c1-941f-4219-b1eb-2b063e44ce47)
 
@@ -92,4 +93,15 @@ The dataset had ... datapoints. It consisted of 5 tables - Customer, Returns, Pr
 
 
 # Recommendations
-* Lokoja and Uyo which
+
+* Lokoja and Uyo which were the second and third locations which generated the highest revenue respectively have been seen to have the lowest stock available. So it is recommended that products in this location be restocked.
+  
+* June recorded the overall highest revenue over the years. So I would recommend that the factors that contributed to the increase in sales in the month of June be replicated over the months to lead to an increase in revenue.
+  
+* "What if analysis" was done and it was discovered that if the prices of products are increased by 50% the revenue and net income would increase to #42.68bn and #34.20b respectively. So the prices of products can be slightly increased to test run the market to see if sales would increase, decrease or remain the same ahead of major price increment.
+  
+* A cross-selling strategy can be carried out on products with low sales and high sales. i.e product with low sales can be cross-sold with compatible high sales.
+  
+* Product analysis revealed that the top 5 products which generated the highest profits were also the products with highest returns. I would recommend that inquiries should be made as to why the products are being returned and the problem rectified as low return rate of these products can increase the revenue.
+
+Explore the interactive dashboard - 
