@@ -12,7 +12,7 @@ I have been tasked to analyze the available data and create the following report
 * Product Report
 
 # About the dataset
-The dataset had ... datapoints. It consisted of 5 tables - Customer, Returns, Product, Store and transaction- which came in Excel format. Data transformation and analysis was done using MSSQL and visualization was done using Power BI
+The dataset consisted of 5 tables - Customer, Returns, Product, Store and transaction- which came in Excel format. Data transformation and analysis was done using MSSQL and visualization was done using Power BI
 
 # Problem Questions
 * Executive Report
@@ -41,7 +41,7 @@ The dataset had ... datapoints. It consisted of 5 tables - Customer, Returns, Pr
 
 # Processes
 * Imported the file into SQL server
-* Data transformation aand analysis was done using SQL
+* Data transformation and analysis was done using SQL
 * Data was brought into Power BI for analysis and reporting
 * Modeled the data
 * Created DAX measures for further analysis
