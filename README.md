@@ -74,3 +74,6 @@ The dataset had ... datapoints. It consisted of 5 tables - Customer, Returns, Pr
 
 ![Screenshot_1-10-2024_62457_app powerbi com](https://github.com/user-attachments/assets/549d8e04-612b-4f59-b80c-676464c2e18c)
 
+* Operating income, Operating expenses, gross margin and  Gross Revenue per month.
+
+![Screenshot_1-10-2024_62616_app powerbi com](https://github.com/user-attachments/assets/5b146cfc-f005-4e7b-90dd-6f3f5e325958)
