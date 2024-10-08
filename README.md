@@ -92,4 +92,4 @@ The dataset had ... datapoints. It consisted of 5 tables - Customer, Returns, Pr
 
 
 # Recommendations
-* Lokoja and Uyo
+* Lokoja and Uyo which
