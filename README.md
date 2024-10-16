@@ -16,26 +16,16 @@ The dataset consisted of 5 tables - Customer, Returns, Product, Store and transa
 
 # Problem Questions
 * Executive Report
-  - Warehouse with lowest stock left
-  - Customer by Revenue, Profit and Profit margin
-  - Revenue trend
-  - Product Category by unit sold
-  - Revenue, Profit, unit sold and % of returns
+ Create an executive-level report to gain insights into inventory, customer profitability, revenue trends, product sales and return rates to drive strategic business decisions.
 
 * Income Statement
-  - Revenue, Net profit,operating expenses,gross margin
-  - Income statement by month
+ Provide a comprehensive income statement that outlines key financial metrics such as rvenue, net profit, operating expenses and gross margin, with a MoM brakdown to track financial performance over time
 
 * What-If Analysis
-  - What-if analysis with a numeric parameter of 0.1 - 1 increment in price
-  - Adjusted revenue, profit, net income and gross margin
+ A scenerio analysis is required to explore the impact of price adjustment on key financial metrics including revenue, profit net income and gross margin using price increment ranging from 0.1-1
 
 * Product Report
-  - Revenue, profit and quantity ordered by product category
-  - Total quantity returned by product name
-  - Percentage profit by product name
-  - Total sales price and cost by product category
-
+ The buisness seeks detailed insights into product performance to optimize product startegy and profitability 
 # Tool Used
   MSSQL, Power BI
 
