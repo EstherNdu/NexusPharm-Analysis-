@@ -15,13 +15,16 @@ I have been tasked to analyze the available data and create the following report
 The dataset consisted of 5 tables - Customer, Returns, Product, Store and transaction- which came in Excel format. Data transformation and analysis was done using MSSQL and visualization was done using Power BI
 
 # Problem Questions
-* Executive Report
+* Executive Report:
+  
  Create an executive-level report to gain insights into inventory, customer profitability, revenue trends, product sales and return rates to drive strategic business decisions.
 
-* Income Statement
+* Income Statement:
+  
  Provide a comprehensive income statement that outlines key financial metrics such as rvenue, net profit, operating expenses and gross margin, with a MoM brakdown to track financial performance over time
 
-* What-If Analysis
+* What-If Analysis:
+  
  A scenerio analysis is required to explore the impact of price adjustment on key financial metrics including revenue, profit net income and gross margin using price increment ranging from 0.1-1
 
 * Product Report
