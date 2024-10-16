@@ -27,8 +27,10 @@ The dataset consisted of 5 tables - Customer, Returns, Product, Store and transa
   
  A scenerio analysis is required to explore the impact of price adjustment on key financial metrics including revenue, profit net income and gross margin using price increment ranging from 0.1-1
 
-* Product Report
+* Product Report:
+  
  The buisness seeks detailed insights into product performance to optimize product startegy and profitability 
+ 
 # Tool Used
   MSSQL, Power BI
 
